@@ -12,7 +12,9 @@ This is my first repository to learn git.
 
 ## How to contribute
 
-
-' ''' '
-print("hello")
-' ''' '
+` ``` `
+def say_hello():
+    return "hello"
+    
+print('hello')
+` ```  `
