@@ -12,9 +12,9 @@ This is my first repository to learn git.
 
 ## How to contribute
 
-'''
+```
 def say_hello():
     return "hello"
-    
+say_hello()
 print('hello')
-'''
+```
